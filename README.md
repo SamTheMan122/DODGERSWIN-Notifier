@@ -2,6 +2,7 @@
 
 ## About the Project
 The new 2025 MLB season has started! Everytime the Los Angeles Dodgers win at home, you can use promo code 'DODGERSWIN' to get a $6 2 entree plate at Panda Express. This python-based applicatio/script will send a text message whenever this code is valid for the day.
+I utilized web scraping to extract the table cells that contained the information for day of the game, home/away status, and win/loss.
 
 ## Getting Started
 
