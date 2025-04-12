@@ -56,7 +56,7 @@ py -m pip install webdriver-manager
 
 To automatically have texts sent, set a task schedule on your Windows PC.
 
-1. Download the DODGERSWIN.exe file
+1. Download the DODGERSWIN.exe file from the [latest release](https://github.com/SamTheMan122/DODGERSWIN-Notifier/releases/tag/v1.0.0)
 2. Open the Task Scheduler (Ex: use Win + S and type in 'Task Scheduler'
 3. Select **Create Task**
 4. Add a name and a description
@@ -79,8 +79,8 @@ To automatically have texts sent, set a task schedule on your Windows PC.
 - @SamTheMan122
 
 <!-- Contact -->
-## :handshake: Contact
+## Contact
 
 Samuel Barcarse - samuel.barcarse01@gmail.com
 
-Project Link: [https://github.com/Louis3797/awesome-readme-template](https://github.com/Louis3797/awesome-readme-template)
+Project Link: [https://github.com/SamTheMan122/DODGERSWIN-Notifier](https://github.com/SamTheMan122/DODGERSWIN-Notifier)
